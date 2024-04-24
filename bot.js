@@ -18,9 +18,8 @@
 
 
 
-🌟 This is Telegram I Chat Bot Created By Mr nima 
-@darkmakerofc 
-@mr-nima-x 
+🌟 This is Telegram Chat AI Created By Lazack_28
+@MR28BOT
 Using OpenAi Chatgpt 
 */
 
