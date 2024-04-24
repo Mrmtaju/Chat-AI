@@ -1,12 +1,12 @@
 {
-  "name": "telegram-chatgpt-bot",
+  "name": "Chat AI BOT",
   "version": "1.0.0",
   "description": "Simple Telegram Bot Chatbot Ai Powerd By OpenAi ChatGpt.",
   "main": "bot.js",
   "scripts": {
     "start": "node bot.js"
   },
-  "author": "darkmakerofc(mrnima)",
+  "author": "Lazack28",
   "license": "ISC",
   "dependencies": {
     "chalk": "^4.1.1",
